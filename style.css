@@ -1,0 +1,41 @@
+div { font-family: Oswald;
+    Color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 40px 0;}
+
+.wrapper {
+    width: 50%;
+    height: 200px;
+    padding: 0;
+    }
+
+.box3 {
+    float: left;
+    background-color: #bde78c;
+    width: 80%;
+    height: 500px;
+
+}
+
+.box4 {
+    float: right;
+    background-color: #94b272;
+    width: 20%;
+    height: 500px;
+}
+
+.box1 {
+    clear: right;
+    width: 100%;
+    float: left;
+    background-color: #70a9e0;
+}
+
+.box2 {
+   clear: right;
+    width: 100%;
+    float: left;
+    background-color: #fac1f6;
+}
+

@@ -1,0 +1,43 @@
+div { font-family: Oswald;
+    Color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 40px 0;}
+
+.wrapper {
+    display: flex;
+    flex-flow: row wrap; 
+    width: 80%;
+    height: 100px;
+    padding: 0;
+    }
+
+.box3 {
+    float: left;
+    background-color: #bde78c;
+    flex: 1 1 80%;
+    height: 500px;
+
+}
+
+.box4 {
+    float: right;
+    background-color: #94b272;
+    flex: 1 1 20%;
+    height: 500px;
+}
+
+.box1 {
+    clear: right;
+    flex: 1  100%;
+    float: left;
+    background-color: #70a9e0;
+}
+
+.box2 {
+   clear: right;
+    flex: 1  100%;
+    float: left;
+    background-color: #fac1f6;
+}
+
